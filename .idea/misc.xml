@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/capur/Downloads/ListViewWithAPIRestData-master/ListViewWithAPIRestData-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2075" />
+        <entry key="..\:/Users/capur/Downloads/ListViewWithAPIRestData-master/ListViewWithAPIRestData-master/app/src/main/res/drawable/ic_launcher1_background.xml" value="0.2075" />
+        <entry key="..\:/Users/capur/Downloads/ListViewWithAPIRestData-master/ListViewWithAPIRestData-master/app/src/main/res/drawable/ic_launcher1_foreground.xml" value="0.2075" />
         <entry key="..\:/Users/capur/Downloads/ListViewWithAPIRestData-master/ListViewWithAPIRestData-master/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/capur/Downloads/ListViewWithAPIRestData-master/ListViewWithAPIRestData-master/app/src/main/res/layout/activity_maps.xml" value="0.2" />
         <entry key="..\:/Users/capur/Downloads/ListViewWithAPIRestData-master/ListViewWithAPIRestData-master/app/src/main/res/layout/ly_item.xml" value="0.2" />
+        <entry key="..\:/Users/capur/Downloads/ListViewWithAPIRestData-master/ListViewWithAPIRestData-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher1.xml" value="0.2075" />
         <entry key="..\:/Users/eduga/AndroidStudioProjects/ListViewWithAPIRestData-master/app/src/main/res/layout/activity_main.xml" value="0.1852355072463768" />
         <entry key="..\:/Users/eduga/AndroidStudioProjects/ListViewWithAPIRestData-master/app/src/main/res/layout/ly_header.xml" value="0.1852355072463768" />
         <entry key="..\:/Users/eduga/AndroidStudioProjects/ListViewWithAPIRestData-master/app/src/main/res/layout/ly_item.xml" value="0.1852355072463768" />
